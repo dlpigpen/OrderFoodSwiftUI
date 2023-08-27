@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "dorukan_36781_a_school_bus_turned_into_an_ambulance_hyper_reali_d3bf1951-dcbc-4d62-aa35-0d5da030a078.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
